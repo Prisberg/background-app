@@ -7,7 +7,7 @@ import Selection from './Selection';
 function App() {
 
   return (
-    <div className='mt-4 w-screen h-full'>
+    <div className='mt-4  w-full h-full flex justify-center flex-col'>
       <h1 className="text-center text-3xl font-bold">
         WELCOME TO BACKGROUND APP
       </h1>
